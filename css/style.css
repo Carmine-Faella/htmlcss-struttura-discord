@@ -45,7 +45,6 @@ li{
 header{
     background-color: blue;
     padding: 30px;
-    
 }
 
 .header{
@@ -99,5 +98,40 @@ header{
     width: 80%;
     margin: auto;
     background-color: green;
+    border: 1px black dashed;
+}
+
+footer{
+    background-color: black;
+    margin-bottom: 2px;
+    padding: 20px;
+}
+
+.foot_col1{
+    background-color: lightcoral;
+    flex-grow: 2;
+    border: 1px black dashed;
+}
+
+.foot_col2{
+    background-color: aqua;
+    flex-grow: 1;
+    border: 1px black dashed;
+}
+
+.foot_container{
+    background-color: aquamarine;
+    padding: 10px 0px;
+    justify-content: space-between;
+}
+
+.foot_left{
+    background-color: lightcoral;
+    border: 1px black dashed;
+}
+
+.foot_right{
+    background-color: lightcoral;
+    border: 1px black dashed;
 }
 
