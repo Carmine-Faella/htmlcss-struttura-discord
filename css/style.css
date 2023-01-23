@@ -11,9 +11,6 @@ nav{
 
 .flex_container{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: center;
     background-color: yellow;
     width: 80%;
     margin: auto;
@@ -45,4 +42,62 @@ li{
     display: inline-block;
 }
 
+header{
+    background-color: blue;
+    padding: 30px;
+    
+}
+
+.header{
+    width: 60%;
+    margin: auto;
+    height: 250px;
+    background-color: pink;
+}
+
+.container{
+    padding: 20px;
+}
+
+.flex_cnt{
+    display: flex;
+    height: 300px;
+    width: 80%;
+    margin: auto;
+}
+
+.col_left{
+    width: 60%;
+    background-color: lightblue;
+    border: 1px black dashed;
+}
+
+.col_right{
+    width: 40%;
+    background-color: pink;
+    border: 1px black dashed;
+}
+
+.sct_grey{
+    background-color: lightgray;
+}
+
+.col_left1{
+    width: 60%;
+    background-color: pink;
+    border: 1px black dashed;
+}
+
+.col_right2{
+    width: 40%;
+    background-color: lightblue;
+    border: 1px black dashed;
+}
+
+.main_end{
+    height: 400px;
+    width: 80%;
+    margin: auto;
+    background-color: green;
+}
 
