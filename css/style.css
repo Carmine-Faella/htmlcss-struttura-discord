@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-nav{
+.top_bar{
     background-color: aquamarine;
     padding: 20px;
 }
@@ -44,7 +44,7 @@ li{
 
 header{
     background-color: blue;
-    padding: 30px;
+    height: 350px;
 }
 
 .header{
@@ -52,6 +52,7 @@ header{
     margin: auto;
     height: 250px;
     background-color: pink;
+    margin-top: 20px;
 }
 
 .container{
