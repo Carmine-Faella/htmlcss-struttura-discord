@@ -6,7 +6,7 @@
 
 .top_bar{
     background-color: aquamarine;
-    padding: 20px;
+    padding: 20px 0px;
 }
 
 .flex_container{
@@ -20,18 +20,21 @@
     text-align: left;
     width: 20%;
     border: 1px black dashed;
+    padding: 10px 0px;
 }
 
 .col_2{
     width: 60%;
     text-align: center;
     border: 1px black dashed;
+    padding: 10px;
 }
 
 .col_3{
     width: 20%;
     text-align: right;
     border: 1px black dashed;
+    padding: 10px 0px;
 }
 
 ul{
@@ -40,11 +43,12 @@ ul{
 
 li{
     display: inline-block;
+    padding: 0px 20px;
 }
 
 header{
     background-color: blue;
-    height: 350px;
+    height: 400px;
 }
 
 .header{
@@ -52,7 +56,7 @@ header{
     margin: auto;
     height: 250px;
     background-color: pink;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .container{
