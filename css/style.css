@@ -60,7 +60,7 @@ header{
 }
 
 .container{
-    padding: 20px;
+    padding: 20px 0px;
 }
 
 .flex_cnt{
@@ -109,7 +109,7 @@ header{
 footer{
     background-color: black;
     margin-bottom: 2px;
-    padding: 20px;
+    padding: 20px 0px;
 }
 
 .foot_col1{
